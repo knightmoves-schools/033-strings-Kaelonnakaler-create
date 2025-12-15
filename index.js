@@ -1,6 +1,6 @@
-let firstname = 'firstname';
-let jobtitle = "JobTitle";
-let city = 'city';
+ firstname = 'firstname';
+ jobtitle = "JobTitle";
+ city = 'city';
 
  NewJobPost = firstname;
  NewJobPost = Jobtitle;
