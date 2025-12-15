@@ -1,10 +1,10 @@
- firstname = 'firstname';
- jobtitle = "JobTitle";
+ JobTitle = 'JobTitle';
+ FirstName = "FirstName";
  city = 'city';
 
- firstname = NewJobPost;
  jobtitle = NewJobPost;
- city = NewJobPost;
+ firstname = NewJobPost;
+ NewJobPost = city;
  
  
 
