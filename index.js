@@ -1,10 +1,11 @@
-let firstName = 'name';
-let jobTitle = "name"
-let city = 'name'
+let firstName = 'NewJobPost';
+let jobTitle = "NewJobPost"
+let city = 'NewJobPost'
 
-let newJobPost = 'firstName';
-let newJobPost = 'jobTitle';
-let newJobPost = 'city';
+let firstName
+let jobTitle
+let city
+
 
 
 
