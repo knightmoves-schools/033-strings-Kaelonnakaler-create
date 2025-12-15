@@ -1,12 +1,12 @@
-let NewJobPost = 'firstname';
-let NewJobPost = "JobTitle";
-let NewJobPost = 'city';
+let firstname = 'firstname';
+let jobtitle = "JobTitle";
+let city = 'city';
 
-let firstName 
-let jobTitle
-let city
+let 
+let 
+let 
 
-document.getElementById("result").innerHTML = thankyou;
+document.getElementById("result").innerHTML = NewJobPost;
 
 
 
