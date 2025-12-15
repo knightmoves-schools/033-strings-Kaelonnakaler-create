@@ -2,9 +2,9 @@
  jobtitle = "JobTitle";
  city = 'city';
 
- NewJobPost = firstname;
- NewJobPost = Jobtitle;
- NewJobPost = city;
+ firstname = NewJobPost;
+ jobtitle = NewJobPost;
+ city = NewJobPost;
  
  
 
