@@ -1,6 +1,6 @@
- JobTitle = 'JobTitle';
- FirstName = "FirstName";
- city = 'city';
+ 'NewJobPost' = 'FirstName';
+ 'NewJobPost' = "JobTitle";
+ 'NewJobPost' = 'city';
 
  jobtitle = NewJobPost;
  firstname = NewJobPost;
@@ -8,7 +8,7 @@
  
  
 
-document.getElementById("NewJobPost").innerHTML = NewJobPost;
+document.getElementById("NewJobPost").innerHTML = result;
 
 
 
