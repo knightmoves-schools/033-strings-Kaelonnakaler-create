@@ -1,6 +1,6 @@
- 'NewJobPost' = 'FirstName';
- 'NewJobPost' = "JobTitle";
- 'NewJobPost' = 'city';
+ 'Firstname' = 'FirstName';
+ 'JobTitle' = "JobTitle";
+ 'City' = 'City';
 
  jobtitle = NewJobPost;
  firstname = NewJobPost;
